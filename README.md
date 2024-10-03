@@ -28,5 +28,17 @@ Además, instala las librerías:
 # ¿Cómo se usa?
 
 Actualmente, el script debe ejecutarse en el directorio `src/` del proyecto. 
+Antes de ejecutarlo, se le deben asignar permisos de ejecución con el siguiente comando:
 
-Es necesario tener `bash` instalado; si estás en Windows, puedes utilizar *Git Bash*. No se ha verificado su funcionamiento en otras versiones o entornos de `bash`.
+```bash
+chmod +x setup-dirs.sh
+```
+Para su ejecucion:
+```bash
+./setup-dirs.sh
+```
+
+
+Probado en: GNU bash, version 5.2.26.
+No se ha verificado su funcionamiento en otras versiones.
+
