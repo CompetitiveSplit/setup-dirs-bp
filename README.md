@@ -24,3 +24,9 @@ Además, instala las librerías:
 - @fortawesome/fontawesome-free
 - js-sha512
 - jwt-decode
+
+# ¿Cómo se usa?
+
+Actualmente, el script debe ejecutarse en el directorio `src/` del proyecto. 
+
+Es necesario tener `bash` instalado; si estás en Windows, puedes utilizar *Git Bash*. No se ha verificado su funcionamiento en otras versiones o entornos de `bash`.
