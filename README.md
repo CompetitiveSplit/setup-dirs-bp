@@ -1,6 +1,6 @@
 # IMPORTANTE
 
-El script crea la siguiente estructura de carpetas, *considerada buena práctica* al momento de iniciar un proyecto en [React](https://es.react.dev/):
+El script crea la siguiente estructura de carpetas, *consideradas buenas prácticas* al momento de iniciar un proyecto en [React](https://es.react.dev/):
 
 ```
 app/
