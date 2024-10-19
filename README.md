@@ -28,7 +28,7 @@ Además, instala las librerías:
 # ¿Cómo se usa?
 
 Actualmente, el script debe ejecutarse en el directorio `src/` del proyecto. 
-Antes de ejecutarlo, se le deben asignar permisos de ejecución con el siguiente comando:
+Antes de ejecutarlo, se le deben asignar permisos de ejecución con el siguiente comando (en bash o gitbash):
 
 ```bash
 chmod +x setup-dirs.sh
@@ -39,6 +39,6 @@ Para su ejecucion:
 ```
 
 
-Probado en: GNU bash, version 5.2.26.
+Probado en GNU bash version 5.2.26.
 No se ha verificado su funcionamiento en otras versiones.
 
